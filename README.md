@@ -36,9 +36,13 @@ This course was created using Unity version 6000.0.46f1, although the version ma
 
 ##### <u>Link for Re-lighting Environments</u>
 
-[The Courtyard]: https://assetstore.unity.com/packages/essentials/tutorial-projects/the-courtyard-49377
-[Unity Warehouse]: https://assetstore.unity.com/packages/3d/environments/industrial/unity-warehouse-276394
-[Book of The Dead: Environment]: https://assetstore.unity.com/search#q=book%20od%20the%20dead
+- [The Courtyard][courtyard]
+- [Unity Warehouse][warehouse]
+- [Book of The Dead: Environment][botd]
+
+[courtyard]: https://assetstore.unity.com/packages/essentials/tutorial-projects/the-courtyard-49377
+[warehouse]: https://assetstore.unity.com/packages/3d/environments/industrial/unity-warehouse-276394
+[botd]: https://assetstore.unity.com/search#q=book%20od%20the%20dead
 
 
 
