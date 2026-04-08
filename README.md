@@ -1,6 +1,6 @@
 # Master Lighting in Unity
 
-The course is not published yet (Soon link)
+Udemy Link: https://www.udemy.com/course/master-lighting-in-unity/
 
 ![](https://www.eduardoroacg.com/downloads/mlucourse/hd1080/Course_Image_1_hd.png)
 
