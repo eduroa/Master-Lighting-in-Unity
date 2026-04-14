@@ -16,7 +16,30 @@ Throughout the lessons, I use simple scenes that are ideal for teaching each lig
 
 This course was created using Unity version 6000.0.46f1, although the version may change in future course updates.
 
+##### <u>Link for Re-lighting Environments</u>
 
+- [The Courtyard][courtyard]
+- [Unity Warehouse][warehouse]
+- [Book of The Dead: Environment][botd]
+
+[courtyard]: https://assetstore.unity.com/packages/essentials/tutorial-projects/the-courtyard-49377
+[warehouse]: https://assetstore.unity.com/packages/3d/environments/industrial/unity-warehouse-276394
+[botd]: https://assetstore.unity.com/search#q=book%20od%20the%20dead
+
+##### <u>Why the re-lighting environments are not include in the project?</u>
+
+It is my intention to use environments that you can download for free from the Unity Asset Store. In fact, the three environments used so far are completely free. However, due to licensing restrictions, I cannot share these files (original or modified) as part of a commercial product.
+
+For that reason, in the course you will find videos that guide you through the process of importing these environments into HDRP or URP when needed. If any of the environments require adjustments, I show you exactly how to make those modifications.
+
+Of course, feel free to create your own conversions depending on your experience and preferences.
+
+##### <u>Roadmap</u>
+
+- [ ] 2026
+  - [ ] Re‑light a new free environment using URP.
+  - [ ] Add one or two new lectures to the **Tips and Tricks** section.
+  - [ ] Any lighting‑related updates that Unity releases this year.
 
 # <u>Screenshots</u>
 
@@ -34,21 +57,4 @@ This course was created using Unity version 6000.0.46f1, although the version ma
 
 
 
-##### <u>Link for Re-lighting Environments</u>
 
-- [The Courtyard][courtyard]
-- [Unity Warehouse][warehouse]
-- [Book of The Dead: Environment][botd]
-
-[courtyard]: https://assetstore.unity.com/packages/essentials/tutorial-projects/the-courtyard-49377
-[warehouse]: https://assetstore.unity.com/packages/3d/environments/industrial/unity-warehouse-276394
-[botd]: https://assetstore.unity.com/search#q=book%20od%20the%20dead
-
-
-
-##### <u>Roadmap</u>
-
-- [ ] 2026
-  - [ ] Re‑light a new free environment using URP.
-  - [ ] Add one or two new lectures to the **Tips and Tricks** section.
-  - [ ] Any lighting‑related updates that Unity releases this year.
